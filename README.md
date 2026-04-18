@@ -1,9 +1,9 @@
-Namita Sharma
+### Namita Sharma
 Computer Science Engineering (Data Science) Student
 Aspiring Software Developer and Web Development Enthusiast
 Focused on building scalable, efficient, and real-world solutions
 
-About Me
+ ### About Me
 * Computer Science student with a strong interest in software development
 * Passionate about learning and building real-world projects
 * Consistent learner focused on improving problem-solving skills
@@ -14,28 +14,28 @@ About Me
 Goal is to become a skilled Software Developer
 
 
-Skills
+###Skills
 
-Programming Languages
+##Programming Languages
 
-C++
-Java
+*C++
+*Java
 
-Web Development
+#Web Development
 
-HTML
-CSS
-JavaScript
+*HTML
+*CSS
+*JavaScript
 
-Core Concepts
+##Core Concepts
 
-Data Structures
-Algorithms
-Object-Oriented Programming
-Problem Solving
+*Data Structures
+*Algorithms
+*Object-Oriented Programming
+*Problem Solving
 
-Current Focus
-Developing web development projects
-Strengthening data structures and algorithms
-Improving coding consistency and speed
-Learning full-stack development step by step
+##Current Focus
+*Developing web development projects
+*Strengthening data structures and algorithms
+*Improving coding consistency and speed
+*Learning full-stack development step by step
