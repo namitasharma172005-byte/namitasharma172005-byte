@@ -18,7 +18,8 @@ Goal is to become a skilled Software Developer
 
 ### Programming Languages
 
-*C++
+*C++ 
+
 *Java
 
 ### Web Development
