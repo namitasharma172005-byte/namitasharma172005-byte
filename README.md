@@ -14,20 +14,20 @@ Focused on building scalable, efficient, and real-world solutions
 Goal is to become a skilled Software Developer
 
 
-### Skills
+## Skills
 
-## Programming Languages
+### Programming Languages
 
 *C++
 *Java
 
-## Web Development
+### Web Development
 
 * HTML
 * CSS
 * JavaScript
 
-## Core Concepts
+### Core Concepts
 
 * Data Structures
 * Algorithms
