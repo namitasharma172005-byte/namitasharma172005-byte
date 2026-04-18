@@ -21,7 +21,7 @@ Goal is to become a skilled Software Developer
 *C++
 *Java
 
-# Web Development
+## Web Development
 
 * HTML
 * CSS
