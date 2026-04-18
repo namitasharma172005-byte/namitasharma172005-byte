@@ -27,6 +27,8 @@ Goal is to become a skilled Software Developer
 * HTML
 * CSS
 * JavaScript
+* React
+* Node.js
 
 ### Core Concepts
 
